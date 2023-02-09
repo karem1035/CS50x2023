@@ -1,0 +1,5 @@
+Prompting for h (height)
+h 1 : 8
+loop1 i = 0 < h
+loop2 y = 0 < h
+if
