@@ -1,0 +1,42 @@
+Sort 1
+
+Random
+5000
+real    0m0.102s
+user    0m0.059s
+sys     0m0.017s
+
+10000:
+real    0m0.316s
+user    0m0.223s
+sys     0m0.051s
+
+50000:
+real    0m7.846s
+user    0m6.856s
+sys     0m0.179s
+
+
+Sort 2
+
+Random
+5000
+
+
+10000:
+
+
+50000:
+
+
+
+
+Reversed
+5000 :
+10000:
+50000:
+
+Sorted
+5000 :
+10000:
+50000:
